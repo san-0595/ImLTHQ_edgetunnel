@@ -6,7 +6,7 @@ let 伪装网页;
 let 验证UUID;
 let 反代IP = "proxyip.cmliussss.net";
 
-const 默认优选 = "time.is";
+const 默认优选 = "openai.com";
 
 // 关键词拆分(防检测)
 const 威图锐拆分 = ["v2", "ray"];
